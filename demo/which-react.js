@@ -1,5 +1,5 @@
 import React, { useReducer, useState, Component, useEffect, useLayoutEffect } from "react";
-import ReactDOM from "react-dom/client";
+// import ReactDOM from "react-dom/client";
 
 // import {
 //     Component,
@@ -8,7 +8,7 @@ import ReactDOM from "react-dom/client";
 //     useEffect,
 //     useLayoutEffect,
 // } from "../src/react";
-// import ReactDOM from "../src/react-dom";
+import ReactDOM from "../src/react-dom";
 
 export {
     ReactDOM,
